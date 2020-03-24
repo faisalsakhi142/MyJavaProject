@@ -9,4 +9,10 @@ public class Repl99 {
 	    System.out.print("In:");
 	    String word = inp.nextLine();
 	    //write your code below
+for(int i=0; i<word.length(); i++) {
+	 char word1 = word.charAt(i);
+	 System.out.println(word1);
+}
 	    
+	}
+}
