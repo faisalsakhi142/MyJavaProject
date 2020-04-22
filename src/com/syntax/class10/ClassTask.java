@@ -14,4 +14,10 @@ public class ClassTask {
 System.out.println("The largest number is = "+largest);
 	}
 
+
+		// TODO Auto-generated method stub
+	//	return 0;
 }
+
+
+
